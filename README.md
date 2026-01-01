@@ -49,6 +49,3 @@ I value **honesty above all**, even when it hurts – in coding and in life. �
 
 ---
 
-## 📊 GitHub Stats
-![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-hack7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-hack7&layout=compact&theme=radical)
